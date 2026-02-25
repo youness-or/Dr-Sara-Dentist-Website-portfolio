@@ -51,7 +51,7 @@ export default function Home() {
             <div className="flex-1 w-full relative group animate-in fade-in slide-in-from-right duration-700">
               <div className="aspect-[4/3] w-full bg-gray-50 rounded-3xl overflow-hidden relative shadow-2xl">
                 <img
-                  src="/images/professional-clinic-image.jpeg"
+                  src="/Dr-Sara-Dentist-Website-portfolio/images/professional-clinic-image.jpeg"
                   alt="Professional Dental Clinic"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 />
@@ -101,7 +101,7 @@ export default function Home() {
           <div className="flex-1 w-full">
             <div className="aspect-[3/4] bg-gray-50 rounded-3xl relative shadow-xl overflow-hidden group">
               <img
-                src="/images/dr-sarah-green-photo.jpeg"
+                src="/Dr-Sara-Dentist-Website-portfolio/images/dr-sarah-green-photo.jpeg"
                 alt="Dr. Sarah Green"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />

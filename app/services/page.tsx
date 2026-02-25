@@ -6,37 +6,37 @@ const services = [
         title: "Professional Cleaning",
         description: "Gentle removal of plaque and tartar to maintain your gum health and prevent cavities.",
         icon: Sparkles,
-        image: "/images/professional-cleaning.jpeg",
+        image: "/Dr-Sara-Dentist-Website-portfolio/images/professional-cleaning.jpeg",
     },
     {
         title: "Eco-Friendly Fillings",
         description: "BPA-free, tooth-colored composite materials for a natural look and sustainable health.",
         icon: Leaf,
-        image: "/images/eco-friendly-fillings.jpeg",
+        image: "/Dr-Sara-Dentist-Website-portfolio/images/eco-friendly-fillings.jpeg",
     },
     {
         title: "Teeth Whitening",
         description: "Advanced laser whitening for a brighter smile in just one visit, using safe gel formulas.",
         icon: Zap,
-        image: "/images/teeth-whitening.jpeg",
+        image: "/Dr-Sara-Dentist-Website-portfolio/images/teeth-whitening.jpeg",
     },
     {
         title: "Digital X-Rays",
         description: "90% less radiation than traditional x-rays with immediate high-resolution results.",
         icon: Smartphone,
-        image: "/images/digital-x-rays.jpeg",
+        image: "/Dr-Sara-Dentist-Website-portfolio/images/digital-x-rays.jpeg",
     },
     {
         title: "Gum Therapy",
         description: "Advanced treatment for periodontal health using minimally invasive techniques.",
         icon: Heart,
-        image: "/images/gum-therapy.jpeg",
+        image: "/Dr-Sara-Dentist-Website-portfolio/images/gum-therapy.jpeg",
     },
     {
         title: "Cosmetic Veneers",
         description: "Custom-made porcelain shells to transform the appearance of your teeth beautifully.",
         icon: Shield,
-        image: "/images/cosmetic-veneers.jpeg",
+        image: "/Dr-Sara-Dentist-Website-portfolio/images/cosmetic-veneers.jpeg",
     },
 ];
 
@@ -47,7 +47,7 @@ export default function Services() {
             <section className="relative h-[400px] flex items-center justify-center overflow-hidden">
                 <div className="absolute inset-0 bg-gray-900">
                     <img
-                        src="/images/service-hero.jpeg"
+                        src="/Dr-Sara-Dentist-Website-portfolio/images/service-hero.jpeg"
                         alt="Dental Services Hero"
                         className="w-full h-full object-cover opacity-60"
                     />
